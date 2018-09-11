@@ -1,10 +1,7 @@
 package eu.artouch.ah01
 
 import android.os.Bundle
-import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity
-
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -12,8 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        setSupportActionBar(toolbar)
-
+//        supportFragmentManager.beginTransaction().replace(R.id.content_main, ExampleFragment(), ExampleFragment.ID_TAG).commit()
     }
-
 }
