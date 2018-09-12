@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android halado masodik</string>
+
+    <string name="preference_order_button_category" translatable="false">PreferenceOrderButtonCategory</string>
+    <string name="preference_order_button" translatable="false">PreferenceOrderButton</string>
+
+
+    <string name="choose_color">Choose color</string>
+    <string name="choose_engine">Choose engine</string>
+    <string name="choose_type">Choose type</string>
+    <string name="choose_manufacturer">Choose manufacturer</string>
+    <string name="preference_title_permissions">Jogosultságok</string>
+    <string name="order_button_allowed_title">Is order button allowed?</string>
+    <string name="order">Order</string>
+    <string name="settings">Settings</string>
+</resources>
